@@ -1,0 +1,17 @@
+{
+  "name": "tictest",
+  "version": "1.0.0",
+  "description": "tictest is a unitesting framework for java script",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon test.js"
+  },
+  "keywords": ["unittest"],
+  "author": "Md. Obaidul Kabir Chowdhury",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "requirejs": "^2.3.6",
+    "statman-stopwatch": "^2.11.1"
+  }
+}
